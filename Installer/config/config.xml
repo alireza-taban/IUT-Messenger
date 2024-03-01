@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Installer>
-    <Name>Messenger</Name>
-    <Version>1.0.0</Version>
-    <Title>Messenger Installer</Title>
-    <Publisher>123</Publisher>
-    <StartMenuDir>Super App</StartMenuDir>
-    <TargetDir>@HomeDir@/Messenger</TargetDir>
-</Installer>
