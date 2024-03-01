@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/source">
+        <file>iut_logo.png</file>
+        <file>logout_icon.png</file>
+        <file>send_logo.png</file>
+        <file>burger_icon.png</file>
+        <file>add_icon.png</file>
+        <file>ham_icon.jpg</file>
+        <file>sky_wallpaper.png</file>
+        <file>sky.jpg.jpg</file>
+        <file>login.png</file>
+        <file>register2.png</file>
+        <file>register3.png</file>
+        <file>register4.png</file>
+        <file>messenger.png</file>
+        <file>back.png</file>
+        <file>cloud.png</file>
+        <file>welcome.png</file>
+        <file>send.png</file>
+        <file>back_chat.png</file>
+        <file>newchat.png</file>
+        <file>newgroup.png</file>
+        <file>newchannel.png</file>
+        <file>ham_icon.png</file>
+    </qresource>
+</RCC>
